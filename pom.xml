@@ -6,7 +6,11 @@
 
     <groupId>com.wd</groupId>
     <artifactId>design-patterns</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>iterator</module>
+    </modules>
     <dependencies>
 
     </dependencies>
